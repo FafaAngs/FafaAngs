@@ -21,7 +21,7 @@
 
 **Contact me:**
 
-[Click here to send me a message](mailto:your.angilbertzkie@gmail.com)
+[Click here to send an email](mailto:your.angilbertzkie@gmail.com)
 
 
 
