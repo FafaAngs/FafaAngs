@@ -1,4 +1,5 @@
-![Static Badge](https://img.shields.io/badge/:badgeContent)
+![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2Fany_text-you_like-blue)
+
 
 
 <img src="https://github.com/FafaAngs/FafaAngs/raw/main/Overview%20banner.png" alt="Overview Banner" width="1000">
