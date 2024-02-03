@@ -1,4 +1,4 @@
-### Hi there! 👋
+
 
 <img src="https://github.com/FafaAngs/FafaAngs/raw/main/Overview%20banner.png" alt="Overview Banner" width="1000">
 
