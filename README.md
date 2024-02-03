@@ -1,5 +1,22 @@
-### Hi there 👋
+### Hi there! 👋
 
+<img src="https://github.com/FafaAngs/FafaAngs/raw/main/Overview%20banner.png" alt="Overview Banner" width="1000">
+
+**Game Engines I've Used:**
+- Unity
+- Unreal Engine
+  
+**Programming Languages I've Used:**
+- C <img src="https://github.com/FafaAngs/FafaAngs/blob/main/CLogo.png" alt="C Logo" width="20">
+- C# <img src="https://github.com/FafaAngs/FafaAngs/blob/main/C%23logo.png" alt="C# Logo" width="20">
+- C++ <img src="https://github.com/FafaAngs/FafaAngs/blob/main/C%2B%2BLogo.png" alt="C++ Logo" width="20">
+- Java <img src="https://github.com/FafaAngs/FafaAngs/blob/main/JavaLogo.png" alt="Java Logo" width="20">
+- JavaScript <img src="https://github.com/FafaAngs/FafaAngs/blob/main/jslogo.png" alt="JavaScript Logo" width="20">
+
+
+
+    
+Let's create some awesome games together! 🕹️✨
 <!--
 **FafaAngs/FafaAngs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
