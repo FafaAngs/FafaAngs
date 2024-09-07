@@ -4,7 +4,7 @@
 
 <img src="https://github.com/FafaAngs/FafaAngs/raw/main/Overview%20banner.png" alt="Overview Banner" width="1000">
 
-![Profile Visitors](https://komarev.com/ghpvc/?username=fafaangs&color=blue&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=fafaangs&color=blue&style=for-the-badge)
 
 
 
